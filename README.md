@@ -1,2 +1,2 @@
 # ColorPicker
-A simple color picker with HTML and JavaScript
+A simple random color picker for text in JavaScript
